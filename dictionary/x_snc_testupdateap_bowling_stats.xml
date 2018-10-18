@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Bowling Stats" max_length="40" name="x_snc_testupdateap_bowling_stats" type="collection">
+        <element label="Bouncer" max_length="40" name="bouncer" type="integer"/>
         <element label="Bowler" max_length="40" name="bowler" type="string"/>
         <element label="Jaffa" max_length="40" name="jaffa" type="integer"/>
         <element label="Yorker" max_length="40" name="yorker" type="integer"/>
